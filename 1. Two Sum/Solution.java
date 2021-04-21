@@ -5,7 +5,7 @@ class Solution {
         HashMap<Integer, Integer> hash = new HashMap<>();
         
         for(int i = 0; i < nums.length; i ++) {
-            //create an int to store the target - current iteration
+            //create an int to store the target - current iteration value
             int comp = target - nums[i];
             if(hash.containsKey(comp)) {
                 //if the key is found, we have our 2 values
