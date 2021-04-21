@@ -1,5 +1,6 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
+        // This is a comparator that compares the matrix 
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
         LinkedList<int[]> merged = new LinkedList<>();
         for (int[] interval : intervals) {
