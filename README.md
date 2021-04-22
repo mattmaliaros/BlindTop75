@@ -6,4 +6,6 @@ The solution will be added on the same day that I have worked on the problem.  N
 
 I will aim to solve a total of 2 problems per day (Morning and Night).
 
-Edit: Need to be more consistent with solving at least 2 per day.
+Edit: Need to be more consistent with solving at least 2 per day. 4/20/21
+
+Edit: Edited comments for clarity. 4/22/21
