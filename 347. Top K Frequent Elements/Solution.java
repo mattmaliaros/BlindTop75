@@ -1,3 +1,5 @@
+// Should also be solved using a Heap,  will submit a solution later for that.
+
 static ArrayList<Integer> find_top_k_frequent_elements(ArrayList<Integer> arr, Integer k) {
 		//Create a new HashMap for storing value of arr(i) as key, and the count as value
         Map<Integer, Integer> hash = new HashMap<>();
